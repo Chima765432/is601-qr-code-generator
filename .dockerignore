@@ -1,0 +1,9 @@
+__pycache__/
+.env
+*.pyc
+.git
+.gitignore
+.github
+venv/
+tests/
+qr_codes/
